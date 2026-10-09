@@ -6,7 +6,7 @@ members = [
   "secretspec-ipc",
   "conformance/ipc/runner",
   "secretspec-node",
-  "secretspec-php",
+  # "secretspec-php",
   "secretspec-py",
 ]
 resolver = "2"
