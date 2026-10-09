@@ -9,6 +9,7 @@ members = [
   # "secretspec-php",
   "secretspec-py",
 ]
+exclude = ["secretspec-php"]
 resolver = "2"
 
 [workspace.package]
